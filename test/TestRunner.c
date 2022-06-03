@@ -3,7 +3,7 @@
 
 static void getnumberTests(void)
 {
-
+    RUN_TEST_GROUP(getint);
 }
 
 int main(int argc, const char * argv[])
